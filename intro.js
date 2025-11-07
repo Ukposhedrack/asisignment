@@ -7,4 +7,5 @@ const favoriteLanguage = "Python";
 console.log("Name:", myname);
 console.log("Age:", age);
 console.log("Favorite Programming Language:", favoriteLanguage);
- console.log("thank you.")
+
+
